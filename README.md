@@ -6,6 +6,8 @@ Simple Python project analysing UKHSA data on influenza hospital admission rates
 Tracks NHS pressure from flu during the 2025–26 winter season (Doctor proposed strike starting on Dec. 22, 2025 and early onset of flu season, shows a lot of growing pressure on the NHS) – a key public health indicator.
 
 ![python project](https://github.com/user-attachments/assets/e421cf53-caca-4bf8-bf4b-31f9c5463255)
+![uk-flu-seasonal-comparison](https://github.com/user-attachments/assets/eb4e939e-bb9c-4bf3-804a-95bb43040b0b)
+
 
 ## Setup & Run
 1. `python -m venv .venv`
